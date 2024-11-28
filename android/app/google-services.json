@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483120065342",
+    "project_id": "fir-agenda-medica",
+    "storage_bucket": "fir-agenda-medica.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483120065342:android:f29e05e26dd61b6a865a6f",
+        "android_client_info": {
+          "package_name": "ywm.com.agenda_medica"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgCMoifNTKdWbzmFLf0F_QkrpS4OmfDVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
